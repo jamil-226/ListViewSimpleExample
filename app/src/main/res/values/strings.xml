@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListViewSimple</string>
+
+    <string-array name="Menu">
+        <item>Maemas Special Pizza</item>
+        <item>Maemas Special Panini</item>
+        <item>Maemas Special Chicken</item>
+        <item>Maemas Special Burger</item>
+        <item>Maemas Special Salad</item>
+        <item>Maemas Special Fried Rice</item>
+        <item>Mamaes Special Bryani</item>
+        <item>Maemas Special Veg</item>
+        <item>Maemas Special Drink</item>
+        <item>Mamaes Hot Deals</item>
+        <item>Mamaes Layality Cards</item>
+    </string-array>
+
+
+</resources>
